@@ -9,6 +9,8 @@ class ChatGPT:
         self.outputFormat = outputFormat
         self.response = ""
     def getChatGPTResponse(self, user_msg: str):
+        print("used")
         self.response = openai.ChatCompletion.create(model="gpt-3.5-turbo",
                                                 messages=[{"role": "system", "content": self.system_msg},
                                                           {"role": "user", "content": user_msg}])
+        return self.response["choices"][0]["message"]["content"]
