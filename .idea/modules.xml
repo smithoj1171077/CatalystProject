@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CatalystSourceCode.iml" filepath="$PROJECT_DIR$/CatalystSourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CatalystProject.iml" filepath="$PROJECT_DIR$/.idea/CatalystProject.iml" />
     </modules>
   </component>
 </project>
