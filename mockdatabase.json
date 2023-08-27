@@ -1,0 +1,407 @@
+[
+    {
+        "name": "Alex Johnson",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Data Analysis",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Sarah Miller",
+        "skills": [
+            "Java",
+            "Web Development",
+            "Database Management",
+            "Communication"
+        ]
+    },
+    {
+        "name": "Jennifer Adams",
+        "skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Risk Management",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Mark Thompson",
+        "skills": [
+            "Data Analytics",
+            "Forecasting",
+            "Investment Strategy",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Emily Parker",
+        "skills": [
+            "Client Communication",
+            "Strategic Planning",
+            "Market Research",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Robert Carter",
+        "skills": [
+            "Project Management",
+            "Change Management",
+            "Process Improvement",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Linda Nguyen",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Chris Wilson",
+        "skills": [
+            "JavaScript",
+            "Frontend Development",
+            "UI/UX Design",
+            "Responsive Design"
+        ]
+    },
+    {
+        "name": "Samantha Brown",
+        "skills": [
+            "Problem Solving",
+            "Market Analysis",
+            "Strategy Development",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Daniel Kim",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Olivia Martinez",
+        "skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Taxation",
+            "Audit"
+        ]
+    },
+    {
+        "name": "Ethan Anderson",
+        "skills": [
+            "Financial Modeling",
+            "Valuation",
+            "Investment Analysis",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Ava Wilson",
+        "skills": [
+            "Java",
+            "Software Development",
+            "Algorithms",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Matthew Johnson",
+        "skills": [
+            "Strategic Planning",
+            "Process Improvement",
+            "Market Research",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Emma Davis",
+        "skills": [
+            "Python",
+            "Data Analysis",
+            "Data Visualization",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "William Smith",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Sophia Patel",
+        "skills": [
+            "JavaScript",
+            "Frontend Development",
+            "React",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "name": "Elijah Nguyen",
+        "skills": [
+            "Financial Analysis",
+            "Risk Management",
+            "Investment Strategy",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Oliver Brown",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Ava Jackson",
+        "skills": [
+            "Python",
+            "Web Development",
+            "Django",
+            "Database Integration"
+        ]
+    },
+    {
+        "name": "Liam Patel",
+        "skills": [
+            "Data Analytics",
+            "Financial Modeling",
+            "Investment Analysis",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Isabella Wilson",
+        "skills": [
+            "Client Communication",
+            "Strategic Planning",
+            "Market Research",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Mia Anderson",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "James Smith",
+        "skills": [
+            "Java",
+            "Software Development",
+            "Algorithms",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Emily Chen",
+        "skills": [
+            "Financial Analysis",
+            "Risk Management",
+            "Investment Strategy",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Sophia Lee",
+        "skills": [
+            "Python",
+            "Data Analysis",
+            "Machine Learning",
+            "Data Visualization"
+        ]
+    },
+    {
+        "name": "Michael Wilson",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Ethan Nguyen",
+        "skills": [
+            "JavaScript",
+            "Frontend Development",
+            "Vue.js",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "name": "Emma Smith",
+        "skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Investment Strategy",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Noah Johnson",
+        "skills": [
+            "Python",
+            "Web Development",
+            "Database Management",
+            "Communication"
+        ]
+    },
+    {
+        "name": "Sophia Miller",
+        "skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Risk Management",
+            "Excel"
+        ]
+    },
+    {
+        "name": "William Adams",
+        "skills": [
+            "Data Analytics",
+            "Forecasting",
+            "Investment Strategy",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Ava Thompson",
+        "skills": [
+            "Client Communication",
+            "Strategic Planning",
+            "Market Research",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Ethan Parker",
+        "skills": [
+            "Project Management",
+            "Change Management",
+            "Process Improvement",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Mia Nguyen",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Liam Wilson",
+        "skills": [
+            "JavaScript",
+            "Frontend Development",
+            "UI/UX Design",
+            "Responsive Design"
+        ]
+    },
+    {
+        "name": "Emma Brown",
+        "skills": [
+            "Problem Solving",
+            "Market Analysis",
+            "Strategy Development",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "James Kim",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "skills": [
+            "Financial Analysis",
+            "Budgeting",
+            "Taxation",
+            "Audit"
+        ]
+    },
+    {
+        "name": "Ethan Anderson",
+        "skills": [
+            "Financial Modeling",
+            "Valuation",
+            "Investment Analysis",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Liam Wilson",
+        "skills": [
+            "Java",
+            "Software Development",
+            "Algorithms",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Isabella Davis",
+        "skills": [
+            "Strategic Planning",
+            "Process Improvement",
+            "Market Research",
+            "Presentation Skills"
+        ]
+    },
+    {
+        "name": "Noah Smith",
+        "skills": [
+            "Python",
+            "Data Analysis",
+            "Data Visualization",
+            "Problem Solving"
+        ]
+    },
+    {
+        "name": "Emma Patel",
+        "skills": [
+            "Financial Reporting",
+            "Taxation",
+            "Audit",
+            "Excel"
+        ]
+    },
+    {
+        "name": "Liam Garcia",
+        "skills": [
+            "JavaScript",
+            "Frontend Development",
+            "React",
+            "UI/UX Design"
+        ]
+    }
+]
